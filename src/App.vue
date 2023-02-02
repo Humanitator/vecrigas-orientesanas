@@ -2,7 +2,7 @@
   <div>
     <h1>Sveiks!</h1>
     <h2>Izkatās, ka tu atrodies vecajā mājaslapā.</h2>
-    <a href="">Spied šeit lai aizietu uz jauno!</a>
+    <a href="https://humanitator.github.io/vecrigas-ekskursija/">Spied šeit lai aizietu uz jauno!</a>
   </div>
 </template>
 
@@ -50,6 +50,7 @@
 
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
+    font-size: 16pt;
 
     background-color: #202020;
     padding: 2%;

@@ -9,6 +9,6 @@ cd dist
 git init
 git add -A
 git commit -m 'New deployment'
-git push -f git@github.com:Humanitator/vecrigas-orientesanas.git main:gh-pages
+git push -f git@github.com:Humanitator/vecrigas-orientesanas.git master:gh-pages
 
 cd -
